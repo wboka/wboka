@@ -17,6 +17,19 @@
 - [Twitter: @wtboka](https://www.twitter.com/wtboka)
 - [Facebook: Boka Solutions](https://www.facebook.com/BokaSolutions)
 
+## Websites
+
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Boka+Solutions&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fwww.bokasolutions.com)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=My%20Blog&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fblog.bokasolutions.com)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Icebreakers%20Hockey&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fwww.icebreakershockey.com)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Tioga%20Dems%202&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Ftiogadems.vercel.app)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Covid%2019%20Tracker%20%28USA%29&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Ftrackcovid19.vercel.app)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Trivia%20Games&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Ftrivia-games.vercel.app)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Funeral%20Home&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Ffuneral-home.vercel.app)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Sort2Sustain&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2F5s.bokasolutions.com)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=Exercise&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fexercise.now.sh)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=down&label=myPass&logo=vercel&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fmypass.bokasolutions.com)
+
 <!--
 **wboka/wboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
